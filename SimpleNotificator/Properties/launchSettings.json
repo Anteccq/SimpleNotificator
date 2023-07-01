@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "SimpleNotificator": {
+      "commandName": "Project",
+      "commandLineArgs": "-t タイトル -c コンテント -a \"\\\"C:\\Program Files\\Mozilla Firefox\\firefox.exe\\\" \\\"https://www.anteccq.net/\\\"\""
+    }
+  }
+}
